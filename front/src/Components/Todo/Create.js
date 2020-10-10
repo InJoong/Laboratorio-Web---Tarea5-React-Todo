@@ -14,6 +14,8 @@ const Create = ({addTodo}) => {
         setTodo('')
     }
 
+    
+
     return (
         <div>
             <label htmlFor="create-form"></label>
